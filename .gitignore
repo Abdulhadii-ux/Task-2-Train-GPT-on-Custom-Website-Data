@@ -1,0 +1,5 @@
+minigpt.pt
+minigpt_uploaded.pt
+__pycache__/
+*.pyc
+.DS_Store
